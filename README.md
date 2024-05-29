@@ -1,4 +1,4 @@
-###  exploratory-data-analysis-on-retail-database
+#  exploratory-data-analysis-on-retail-database
 Exploratory data analysis of an online retail database using Python
 ## Objective:
 The objective of this project is to explore retail data, gather basic information, and gain initial insights into the retail landscape. The exploration includes analyzing the most sold products, understanding customer behavior, and examining sales trends over time.
