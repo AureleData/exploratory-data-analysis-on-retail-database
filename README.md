@@ -1,5 +1,7 @@
 # Project Description: Exploratory Data Analysis of Retail Data
 
+### data are coming from https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data/data
+
 ## Objective:
 The objective of this project is to explore retail data, gather basic information, and gain initial insights into the retail landscape. The exploration includes analyzing the most sold products, understanding customer behavior, and examining sales trends over time.
 
